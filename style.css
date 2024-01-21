@@ -1,0 +1,45 @@
+.red{
+    background-color: rgb(228, 14, 25);
+   
+}
+.orange{
+    background-color: orange;
+   
+}
+.yellow{
+    background-color: rgba(248,200,1,255);
+    
+}
+.blue{
+    background-color: #51b7ff;
+    -radius: 8px;
+}
+.lightblue{
+    background-color: #4ef6ff;
+  
+}
+.green{
+    background-color: #a0fe34;
+   
+}
+
+.seagreen{
+    background-color: #30f782;
+    
+}
+.white{
+    background-color:#dcdfe8;
+   
+}
+.pink{
+    background-color: rgba(255,105,198,255);
+  
+}
+.purple{
+    background-color: #d27bfe;
+    
+}
+td:hover {
+    transform: scale(1.5);
+    border: 2px solid black;
+}
